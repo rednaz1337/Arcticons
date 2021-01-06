@@ -370,6 +370,7 @@
     <item component="ComponentInfo{org.blokada.alarm/core.MainActivity}" drawable="blokada" />
     <item component="ComponentInfo{org.blokada.alarm/core.PanelActivity}" drawable="blokada" />
     <item component="ComponentInfo{org.blokada.origin.alarm/core.PanelActivity}" drawable="blokada" />
+    <item component="ComponentInfo{org.blokada.fem.fdroid/ui.MainActivity}" drawable="blokada" />
 
     <!-- Blue Minimal -->
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal" />
@@ -537,6 +538,7 @@
     <!-- Chromium -->
     <item component="ComponentInfo{org.notphenom.swe.browser/org.notphenom.swe.browser.Main}" drawable="chrome" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
+    <item component="ComponentInfo{org.bromite.chromium/com.google.android.apps.chrome.Main}" drawable="chrome" />
 
     <!-- Chubby Click -->
     <item component="ComponentInfo{agrigolo.chubbyclick/agrigolo.chubbyclick.MainActivity}" drawable="chubbyclick" />
@@ -2035,6 +2037,7 @@
     <!-- NewPipe -->
     <item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.VideoItemListActivity}" drawable="newpipe" />
     <item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" drawable="newpipe" />
+    <item component="ComponentInfo{org.schabi.newpipelegacy/org.schabi.newpipelegacy.MainActivity}" drawable="newpipe" />
 
     <!-- News -->
     <item component="ComponentInfo{de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity}" drawable="news" />
